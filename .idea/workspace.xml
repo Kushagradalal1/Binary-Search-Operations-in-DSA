@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa4000aa-5cdb-4b67-a85d-56a7a87113da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AnalysisOfBinarySearch/AnalysisOfBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOccurrance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOcurrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOfFirstOccurrence/IndexOfFirstOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOfFirstOccurrence/IterativeSolutions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IndexOfFirstOccurrence/RecursiveSolution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOccurrance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOcurrance.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,20 +41,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/BinarySearchOperations/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FirstOcurrance">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
-      <module name="BinarySearchOperations" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RecursiveSolution">
     <configuration name="FirstOccurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstOccurranceInBs.FirstOccurrance" />
       <module name="BinarySearchOperations" />
@@ -79,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.LinearSearch" />
+    <configuration name="IndexOfFirstOccurrence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexOfFirstOccurrence.IndexOfFirstOccurrence" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="IndexOfFirstOccurrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +81,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveCallForBinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.RecursiveCallForBinarySearch" />
+    <configuration name="IterativeSolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexOfFirstOccurrence.IterativeSolutions" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="IndexOfFirstOccurrence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecursiveSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndexOfFirstOccurrence.RecursiveSolution" />
+      <module name="BinarySearchOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IndexOfFirstOccurrence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursiveSolution" />
+        <item itemvalue="Application.IterativeSolutions" />
+        <item itemvalue="Application.IndexOfFirstOccurrence" />
         <item itemvalue="Application.FirstOcurrance" />
         <item itemvalue="Application.FirstOccurrance" />
-        <item itemvalue="Application.RecursiveCallForBinarySearch" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.LinearSearch" />
       </list>
     </recent_temporary>
   </component>
