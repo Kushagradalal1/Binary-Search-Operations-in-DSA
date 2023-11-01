@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa4000aa-5cdb-4b67-a85d-56a7a87113da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CountOccurrenceInSortArrays/CountOfOccurrenceInSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CountOccurrenceInSortArrays/UsingBinarySearchOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndexOfLastOccurrence/IterativeWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IndexOfLastOccurrence/RecursiveWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberOfCountsOnes/NumberOfOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRootProblem/BinarySolutionInSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SquareRootProblem/SquareRootFind.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +39,13 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/BinarySearchOperations/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountOfOccurrenceInSortedArrays">
-    <configuration name="CountOfOccurrenceInSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CountOccurrenceInSortArrays.CountOfOccurrenceInSortedArrays" />
+  <component name="RunManager" selected="Application.BinarySolutionInSquareRoot">
+    <configuration name="BinarySolutionInSquareRoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareRootProblem.BinarySolutionInSquareRoot" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CountOccurrenceInSortArrays.*" />
+          <option name="PATTERN" value="SquareRootProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterativeSolutions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndexOfFirstOccurrence.IterativeSolutions" />
+    <configuration name="CountOfOccurrenceInSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CountOccurrenceInSortArrays.CountOfOccurrenceInSortedArrays" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndexOfFirstOccurrence.*" />
+          <option name="PATTERN" value="CountOccurrenceInSortArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndexOfFirstOccurrence.RecursiveSolution" />
+    <configuration name="NumberOfOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberOfCountsOnes.NumberOfOnes" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndexOfFirstOccurrence.*" />
+          <option name="PATTERN" value="NumberOfCountsOnes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IndexOfLastOccurrence.RecursiveWay" />
+    <configuration name="SquareRootFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SquareRootProblem.SquareRootFind" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="IndexOfLastOccurrence.*" />
+          <option name="PATTERN" value="SquareRootProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySolutionInSquareRoot" />
+        <item itemvalue="Application.SquareRootFind" />
+        <item itemvalue="Application.NumberOfOnes" />
         <item itemvalue="Application.CountOfOccurrenceInSortedArrays" />
         <item itemvalue="Application.IterativeWay" />
-        <item itemvalue="Application.RecursiveWay" />
-        <item itemvalue="Application.RecursiveSolution" />
-        <item itemvalue="Application.IterativeSolutions" />
       </list>
     </recent_temporary>
   </component>
