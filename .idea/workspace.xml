@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa4000aa-5cdb-4b67-a85d-56a7a87113da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearchOperations.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/RecursiveCallForBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AnalysisOfBinarySearch/AnalysisOfBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOccurrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FirstOccurranceInBs/FirstOcurrance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,21 +31,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "onboarding.tips.debug.path": "/Users/kushagradalal/Downloads/BinarySearchOperations/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kushagradalal/Downloads/BinarySearchOperations/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.RecursiveCallForBinarySearch">
+}</component>
+  <component name="RunManager" selected="Application.FirstOcurrance">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
       <module name="BinarySearchOperations" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstOccurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstOccurranceInBs.FirstOccurrance" />
+      <module name="BinarySearchOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstOccurranceInBs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstOcurrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstOccurranceInBs.FirstOcurrance" />
+      <module name="BinarySearchOperations" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FirstOccurranceInBs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstOcurrance" />
+        <item itemvalue="Application.FirstOccurrance" />
         <item itemvalue="Application.RecursiveCallForBinarySearch" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.LinearSearch" />
